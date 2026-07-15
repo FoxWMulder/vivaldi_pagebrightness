@@ -1,4 +1,4 @@
-# vivaldi_pagebrightness
+# pagebrightness
 for Vivaldi browser. Changing page brightness
 
 Installation
