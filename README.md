@@ -13,3 +13,7 @@ Installation
 5. Enjoy! :)
 
 Tested on Vivaldi 7.9.3963.3
+
+***
+
+<a href="https://dalink.to/foxwmulder"> ☕️ Угостить автора кофе </a>
